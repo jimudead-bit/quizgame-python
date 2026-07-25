@@ -17,7 +17,7 @@ To run this game, you just need Python 3 installed on your computer
 
 * 📂 Open Python IDLE (it comes installed with Python)
 * 📄 Click File → Open and select the quiz_game.py file
-*     Press F5 (or click Run → Run Module) to start the game 🎮
+* 🎮 Press F5 (or click Run → Run Module) to start the game 
 
 
 ## 🕹️ Example Gameplay
