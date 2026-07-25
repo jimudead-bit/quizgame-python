@@ -11,14 +11,13 @@ This is a simple, beginner-friendly Python quiz game you can run right in your t
 
 ## 🛠️ Requirements
 
-To run this game, you just need Python 3 installed on your computer.
+To run this game, you just need Python 3 installed on your computer
 
 ## 🏃 How to Run the Game
 
-1. 📂 Open Python IDLE (this comes built-in when you download Python)
-2. 📄 Click File at the top left, then select Open
-3. 🔍 Find and open my quiz_game.py file
-4. ⚡ Press the F5 key on your keyboard to start playing!
+📂 Open Python IDLE (it comes installed with Python)
+📄 Click File → Open and select the quiz_game.py file
+⚡ Press F5 (or click Run → Run Module) to start the game 🎮
 
 ## 🕹️ Example Gameplay
 
