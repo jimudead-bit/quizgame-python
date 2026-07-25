@@ -1,4 +1,4 @@
-# 🎮 Simple Python Quiz Game 🐍
+# 🎮 Simple Python Quiz Game 
 
 This is a simple, beginner-friendly Python quiz game you can run right in your terminal. It asks three multiple-choice questions and keeps track of your score as you go.
 
@@ -15,9 +15,10 @@ To run this game, you just need Python 3 installed on your computer
 
 ## 🏃 How to Run the Game
 
-*📂 Open Python IDLE (it comes installed with Python)
-*📄 Click File → Open and select the quiz_game.py file
-*⚡ Press F5 (or click Run → Run Module) to start the game 🎮
+* 📂 Open Python IDLE (it comes installed with Python)
+* 📄 Click File → Open and select the quiz_game.py file
+*     Press F5 (or click Run → Run Module) to start the game 🎮
+
 
 ## 🕹️ Example Gameplay
 
