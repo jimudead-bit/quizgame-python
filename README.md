@@ -6,7 +6,7 @@ This is a simple, beginner-friendly Python quiz game you can run right in your t
 
 * 📝 Three trivia questions: Fun everyday topics like ingredients, science, and animals
 * 🔢 Multiple-choice format: Choose from a, b, or c for each question
-* 📊 Score tracking: Your score updates and is shown after each question
+* 📊 Score tracking: Your score updates are shown after each question
 * 🔠 Case-insensitive answers: A and a both work
 
 ## 🛠️ Requirements
@@ -15,12 +15,10 @@ To run this game, you just need Python 3 installed on your computer.
 
 ## 🏃 How to Run the Game
 
-1. 📂 Download the code and make sure the file is saved exactly as quiz_game.py
-2. 🖥️ Open your Terminal (Mac/Linux) or Command Prompt (Windows)
-3. 📂 Navigate to the folder where you saved your file
-4. ⚡ Run the script using this command:
-
-`python quiz_game.py`
+1. 📂 Open Python IDLE (this comes built-in when you download Python)
+2. 📄 Click File at the top left, then select Open
+3. 🔍 Find and open your quiz_game.py file
+4. ⚡ Press the F5 key on your keyboard to start playing!
 
 ## 🕹️ Example Gameplay
 
